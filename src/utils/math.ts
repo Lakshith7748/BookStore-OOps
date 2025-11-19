@@ -7,3 +7,4 @@ export const power = (a: number, b: number) => Math.pow(a, b);
 export const root = (a: number) => Math.sqrt(a);
 export const abs = (a: number) => Math.abs(a);
 export const min = (a: number, b: number) => Math.min(a, b);
+export const max = (a: number, b: number) => Math.max(a, b);
