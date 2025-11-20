@@ -8,3 +8,4 @@ export const root = (a: number) => Math.sqrt(a);
 export const abs = (a: number) => Math.abs(a);
 export const min = (a: number, b: number) => Math.min(a, b);
 export const max = (a: number, b: number) => Math.max(a, b);
+export const clamp = (val: number, min: number, max: number) => Math.max(min, Math.min(max, val));
