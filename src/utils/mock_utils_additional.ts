@@ -6,3 +6,4 @@ export const mockAdditional_4 = () => 'Mock extra util version 4';
 export const mockAdditional_5 = () => 'Mock extra util version 5';
 export const mockAdditional_6 = () => 'Mock extra util version 6';
 export const mockAdditional_7 = () => 'Mock extra util version 7';
+export const mockAdditional_8 = () => 'Mock extra util version 8';
